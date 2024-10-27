@@ -45,7 +45,8 @@ public class Company {
 			WebElement tdatas = tdata.get(j);
 			String text = tdatas.getText();
 			System.out.println(text);
-			
+			System.out.println(text);
+			System.out.println(text);
 			
 			}
 	
